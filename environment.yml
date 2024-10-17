@@ -1,0 +1,11 @@
+name: topics
+channels:
+  - conda-forge
+dependencies:
+  - r-base
+  - r-ggplot2
+  - r-quanteda
+  - r-quanteda.textplots
+  - r-quanteda.textstats
+  - r-seededlda
+  - r-writexl
