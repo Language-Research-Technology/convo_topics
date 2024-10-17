@@ -1,0 +1,6 @@
+install.packages('ggplot2')
+install.packages('quanteda')
+install.packages('quanteda.textplots')
+install.packages('quanteda.textstats')
+install.packages('seededlda')
+install.packages("writexl")
