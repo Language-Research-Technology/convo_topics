@@ -9,3 +9,4 @@ dependencies:
   - r-quanteda.textstats
   - r-seededlda
   - r-writexl
+  - r-dplyr
