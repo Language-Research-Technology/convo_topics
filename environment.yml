@@ -13,3 +13,4 @@ dependencies:
   - r-pheatmap
   - r-tidyr
   - r-tibble
+  - r-readxl
