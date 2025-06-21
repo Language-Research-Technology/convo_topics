@@ -7,7 +7,6 @@ dependencies:
   - r-quanteda
   - r-quanteda.textplots
   - r-quanteda.textstats
-  - r-seededlda
   - r-writexl
   - r-dplyr
   - r-pheatmap
